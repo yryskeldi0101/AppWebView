@@ -1,6 +1,6 @@
 {
-  "name": "@capgo/inappbrowser",
-  "version": "7.7.2",
+  "name": "@app/webview",
+  "version": "0.0.1",
   "description": "Capacitor plugin in app browser",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -13,14 +13,14 @@
     "ios/Plugin/",
     "CapgoInappbrowser.podspec"
   ],
-  "author": "Martin Donadieu <martin@capgo.app>",
+  "author": "User",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cap-go/capacitor-inappbrowser.git"
+    "url": "git+https://github.com/yryskeldi0101/AppWebView.git"
   },
   "bugs": {
-    "url": "https://github.com/Cap-go/capacitor-inappbrowser/issues"
+    "url": "https://github.com/yryskeldi0101/AppWebView.git/issues"
   },
   "keywords": [
     "capacitor",
